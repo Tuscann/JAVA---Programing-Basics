@@ -14,6 +14,6 @@ public class p015_Vegetabe_Market {
         Double cost = priseFruits * kilogramsFruits + priseVegetables * kilogramsVegetables;
 
         System.out.printf("%f", cost / 1.94);
-
+        // System.out.println(cost / 1.94);
     }
 }

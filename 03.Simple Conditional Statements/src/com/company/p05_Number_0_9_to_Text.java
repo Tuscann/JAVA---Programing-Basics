@@ -15,8 +15,5 @@ public class p05_Number_0_9_to_Text {
         }
         else System.out.println(myIntArray[10]);
 
-
-
-
     }
 }
