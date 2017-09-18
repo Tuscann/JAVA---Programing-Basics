@@ -16,6 +16,8 @@ public class p013_1000_Days_After_Birth {
         Calendar calendar = Calendar.getInstance();
         calendar.setTime(dateFormat.parse(ourDate));
         calendar.add(Calendar.DATE, 999);
+        // calendar.add(Calendar.DATE, 1000);
+
         Date newDate = calendar.getTime();
 
         System.out.println(dateFormat.format(newDate));
