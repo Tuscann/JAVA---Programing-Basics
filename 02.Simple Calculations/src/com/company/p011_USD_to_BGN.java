@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class p11_USD_to_BGN {
+public class p011_USD_to_BGN {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

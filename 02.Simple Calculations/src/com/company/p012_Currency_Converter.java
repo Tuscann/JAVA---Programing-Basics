@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class p12_Currency_Converter {
+public class p012_Currency_Converter {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

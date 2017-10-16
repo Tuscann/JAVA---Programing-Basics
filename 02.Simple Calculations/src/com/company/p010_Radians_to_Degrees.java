@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class p10_Radians_to_Degrees {
+public class p010_Radians_to_Degrees {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         Double radians = Double.parseDouble(input.nextLine());

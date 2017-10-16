@@ -1,6 +1,5 @@
 package com.company;
-
-import java.util.Scanner;
+import java.util.Scanner;  // 100/100
 
 public class p01_SquareArea {
 
@@ -11,6 +10,5 @@ public class p01_SquareArea {
         Integer area = a * a;
 
         System.out.println("Square = " + area);
-
     }
 }

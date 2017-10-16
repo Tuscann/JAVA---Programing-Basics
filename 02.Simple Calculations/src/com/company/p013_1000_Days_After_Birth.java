@@ -1,7 +1,7 @@
 package com.company;
 
 import java.text.ParseException;
-import java.text.SimpleDateFormat;
+import java.text.SimpleDateFormat;  // 100/100
 import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
@@ -15,8 +15,8 @@ public class p013_1000_Days_After_Birth {
 
         Calendar calendar = Calendar.getInstance();
         calendar.setTime(dateFormat.parse(ourDate));
-        calendar.add(Calendar.DATE, 999);
-        // calendar.add(Calendar.DATE, 1000);
+        //calendar.add(Calendar.DATE, 999);
+         calendar.add(Calendar.DATE, 1000);
 
         Date newDate = calendar.getTime();
 

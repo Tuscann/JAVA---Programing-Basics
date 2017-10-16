@@ -1,6 +1,6 @@
 package com.company;
 
-import java.util.Scanner;
+import java.util.Scanner;  // 100/100
 
 public class p04_Concatenate_Data {
     public static void main(String[] args) {

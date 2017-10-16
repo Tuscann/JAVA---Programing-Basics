@@ -1,6 +1,5 @@
 package com.company;
-
-        import java.util.Scanner;
+import java.util.Scanner; // 100/100
 
 public class p02_Inches_To_Centimeters {
     public static void main(String[] args) {
